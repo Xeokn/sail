@@ -38,7 +38,15 @@ programming to configure to your liking. Your limit is your imagination here.
 
 ### SAMMI Sail
 
-The SAMMI sail is meant to be used with the SAMMI bot, it simply redirects
-traffic between your SAMMI bot and SoH. You can configure the sail with env
+The SAMMI sail is meant to be used with SAMMI, it simply redirects
+traffic between SAMMI and SoH. You can configure the sail with env
 variables to point to your SAMMI's webhook endpoint with SAMMI_WEBHOOK_URL and
 have SAMMI point to the Sail's endpoint at http://localhost:43383
+
+An example SAMMI deck is available to use in examples!
+SAMMI 2025.1.0 and above:
+- Drag and drop the SAMMI_SAIL_DECK.json on the main window and click yes.
+
+SAMMI Versions below 2025.1.0:
+- Copy the deck data in SAMMI_SAIL_DECK.json
+- Click the new deck button in the main window and paste the deck.
