@@ -3,8 +3,7 @@
 Sail is a networking protocol designed to facilitate remote control of the Ship
 of Harkinian client. It is intended to be utilized alongside a Sail server, for
 which we provide a few straightforward implementations here in this repo. The
-current implementations available allow integration with Twitch chat and SAMMI
-Bot, feel free to contribute your own!
+current implementations available allow integration with Twitch chat and SAMMI, feel free to contribute your own!
 
 ## How to
 
